@@ -1,0 +1,6 @@
+﻿  document.cpp
+U:\C++\class.getter.setter\class.getter.setter\document.cpp(15,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+U:\C++\class.getter.setter\class.getter.setter\document.cpp(35,6): error C2065: 't': undeclared identifier
+U:\C++\class.getter.setter\class.getter.setter\document.cpp(35,28): error C2065: 't': undeclared identifier
+  Source.cpp
+  Generating Code...

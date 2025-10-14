@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "U:\\C\u002B\u002B\\101025-hw\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75E5E631-6842-4A73-AC60-06F5B91F2919}|101025-hw\\101025-hw.vcxproj|U:\\C\u002B\u002B\\101025-hw\\101025-hw\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75E5E631-6842-4A73-AC60-06F5B91F2919}|101025-hw\\101025-hw.vcxproj|solutionrelative:101025-hw\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "U:\\C\u002B\u002B\\101025-hw\\101025-hw\\Source.cpp",
+              "RelativeDocumentMoniker": "101025-hw\\Source.cpp",
+              "ToolTip": "U:\\C\u002B\u002B\\101025-hw\\101025-hw\\Source.cpp",
+              "RelativeToolTip": "101025-hw\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH8AAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-13T07:26:58.287Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

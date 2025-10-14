@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "U:\\C\u002B\u002B\\class.getter.setter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C142957-FF43-46C3-B432-FA1B64DA6F12}|class.getter.setter\\class.getter.setter.vcxproj|U:\\C\u002B\u002B\\class.getter.setter\\class.getter.setter\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5C142957-FF43-46C3-B432-FA1B64DA6F12}|class.getter.setter\\class.getter.setter.vcxproj|solutionrelative:class.getter.setter\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C142957-FF43-46C3-B432-FA1B64DA6F12}|class.getter.setter\\class.getter.setter.vcxproj|U:\\C\u002B\u002B\\class.getter.setter\\class.getter.setter\\document.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5C142957-FF43-46C3-B432-FA1B64DA6F12}|class.getter.setter\\class.getter.setter.vcxproj|solutionrelative:class.getter.setter\\document.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C142957-FF43-46C3-B432-FA1B64DA6F12}|class.getter.setter\\class.getter.setter.vcxproj|U:\\C\u002B\u002B\\class.getter.setter\\class.getter.setter\\document.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5C142957-FF43-46C3-B432-FA1B64DA6F12}|class.getter.setter\\class.getter.setter.vcxproj|solutionrelative:class.getter.setter\\document.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "document.cpp",
+              "DocumentMoniker": "U:\\C\u002B\u002B\\class.getter.setter\\class.getter.setter\\document.cpp",
+              "RelativeDocumentMoniker": "class.getter.setter\\document.cpp",
+              "ToolTip": "U:\\C\u002B\u002B\\class.getter.setter\\class.getter.setter\\document.cpp*",
+              "RelativeToolTip": "class.getter.setter\\document.cpp*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-13T17:12:13.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "document.h",
+              "DocumentMoniker": "U:\\C\u002B\u002B\\class.getter.setter\\class.getter.setter\\document.h",
+              "RelativeDocumentMoniker": "class.getter.setter\\document.h",
+              "ToolTip": "U:\\C\u002B\u002B\\class.getter.setter\\class.getter.setter\\document.h",
+              "RelativeToolTip": "class.getter.setter\\document.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-13T17:11:57.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "U:\\C\u002B\u002B\\class.getter.setter\\class.getter.setter\\Source.cpp",
+              "RelativeDocumentMoniker": "class.getter.setter\\Source.cpp",
+              "ToolTip": "U:\\C\u002B\u002B\\class.getter.setter\\class.getter.setter\\Source.cpp",
+              "RelativeToolTip": "class.getter.setter\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-13T17:10:28.299Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
