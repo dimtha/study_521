@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "U:\\school\\C\u002B\u002B\\HW\\131025-hw\\",
+  "WorkspaceRootPath": "U:\\study_521\\131025-hw\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CC36E74B-337A-4332-8908-F9D7F7589BDE}|131025-hw\\131025-hw.vcxproj|U:\\school\\C\u002B\u002B\\HW\\131025-hw\\131025-hw\\main_stud_class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CC36E74B-337A-4332-8908-F9D7F7589BDE}|131025-hw\\131025-hw.vcxproj|solutionrelative:131025-hw\\main_stud_class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|U:\\study_521\\131025-hw\\131025-hw\\stud_class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:131025-hw\\stud_class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC36E74B-337A-4332-8908-F9D7F7589BDE}|131025-hw\\131025-hw.vcxproj|U:\\school\\C\u002B\u002B\\HW\\131025-hw\\131025-hw\\stud_class.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CC36E74B-337A-4332-8908-F9D7F7589BDE}|131025-hw\\131025-hw.vcxproj|solutionrelative:131025-hw\\stud_class.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|U:\\study_521\\131025-hw\\131025-hw\\main_stud_class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:131025-hw\\main_stud_class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC36E74B-337A-4332-8908-F9D7F7589BDE}|131025-hw\\131025-hw.vcxproj|U:\\school\\C\u002B\u002B\\HW\\131025-hw\\131025-hw\\stud_class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CC36E74B-337A-4332-8908-F9D7F7589BDE}|131025-hw\\131025-hw.vcxproj|solutionrelative:131025-hw\\stud_class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|U:\\study_521\\131025-hw\\131025-hw\\stud_class.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:131025-hw\\stud_class.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,42 +38,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "stud_class.cpp",
-              "DocumentMoniker": "U:\\school\\C\u002B\u002B\\HW\\131025-hw\\131025-hw\\stud_class.cpp",
+              "DocumentMoniker": "U:\\study_521\\131025-hw\\131025-hw\\stud_class.cpp",
               "RelativeDocumentMoniker": "131025-hw\\stud_class.cpp",
-              "ToolTip": "U:\\school\\C\u002B\u002B\\HW\\131025-hw\\131025-hw\\stud_class.cpp",
+              "ToolTip": "U:\\study_521\\131025-hw\\131025-hw\\stud_class.cpp",
               "RelativeToolTip": "131025-hw\\stud_class.cpp",
-              "ViewState": "AgIAAFwAAAAAAAAAAAAwwGcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-14T18:28:40.955Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "main_stud_class.cpp",
-              "DocumentMoniker": "U:\\school\\C\u002B\u002B\\HW\\131025-hw\\131025-hw\\main_stud_class.cpp",
+              "DocumentMoniker": "U:\\study_521\\131025-hw\\131025-hw\\main_stud_class.cpp",
               "RelativeDocumentMoniker": "131025-hw\\main_stud_class.cpp",
-              "ToolTip": "U:\\school\\C\u002B\u002B\\HW\\131025-hw\\131025-hw\\main_stud_class.cpp",
+              "ToolTip": "U:\\study_521\\131025-hw\\131025-hw\\main_stud_class.cpp",
               "RelativeToolTip": "131025-hw\\main_stud_class.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-14T18:27:15.912Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-14T18:27:15.912Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "stud_class.h",
-              "DocumentMoniker": "U:\\school\\C\u002B\u002B\\HW\\131025-hw\\131025-hw\\stud_class.h",
+              "DocumentMoniker": "U:\\study_521\\131025-hw\\131025-hw\\stud_class.h",
               "RelativeDocumentMoniker": "131025-hw\\stud_class.h",
-              "ToolTip": "U:\\school\\C\u002B\u002B\\HW\\131025-hw\\131025-hw\\stud_class.h",
+              "ToolTip": "U:\\study_521\\131025-hw\\131025-hw\\stud_class.h",
               "RelativeToolTip": "131025-hw\\stud_class.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-10-14T18:26:50.192Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-14T18:26:50.192Z"
             }
           ]
         }

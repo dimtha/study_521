@@ -129,5 +129,5 @@ void Student::isExcellent()
 			count++;
 		}
 	}
-	(count == 5) ? cout << "Good Job!" : cout << "Not enoth";
+	(count == 5) ? cout << "Good Job!" : cout << "Not enough";
 }
