@@ -1,0 +1,5 @@
+﻿  MyArray.cpp
+  main_MyArray.cpp
+  Generating Code...
+U:\study_521\hw\151025-hw\151025-hw\MyArray.cpp(42,1): warning C4715: 'MyArray::getIndex': not all control paths return a value
+  151025-hw.vcxproj -> U:\study_521\hw\151025-hw\x64\Debug\151025-hw.exe
