@@ -49,7 +49,7 @@ void MyString::setSize(size_t size)
 	if(strlen(str) != 0) size = strlen(str);
 }
 
-void MyString::setChar(char* str1)
+void MyString::setStr(char* str1)
 {
 	if (str != nullptr) {
 		size_t size = strlen(str);
@@ -60,9 +60,9 @@ void MyString::setChar(char* str1)
 
 void MyString::myStrcpy(MyString& obj)
 {
-	size_t size = strlen(this->str);
-	char* buf = new char[size + 1];
-	strcpy_s(obj.getChar(), size + 1, this->str);
+	size = strlen(obj.str);
+	this->str = new char[size + 1];
+	strcpy_s(this->str, size +1, obj.getChar());
 }
 
 
