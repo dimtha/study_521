@@ -53,7 +53,7 @@ void MyString::setChar(char* str1)
 {
 	if (str != nullptr) {
 		size_t size = strlen(str);
-		char* str = new char[size + 1];
+		str = new char[size + 1];
 		strcpy_s(this->str, size + 1, str1);
 	}
 }
