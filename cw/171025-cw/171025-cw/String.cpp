@@ -49,14 +49,13 @@ void MyString::setSize(size_t size)
 	if(strlen(str) != 0) size = strlen(str);
 }
 
-void* MyString::setChar(char* str1)
+void MyString::setChar(char* str1)
 {
 	if (str != nullptr) {
 		size_t size = strlen(str);
 		char* str = new char[size + 1];
 		strcpy_s(this->str, size + 1, str1);
 	}
-	return this->str;
 }
 
 void MyString::myStrcpy(MyString& obj)
