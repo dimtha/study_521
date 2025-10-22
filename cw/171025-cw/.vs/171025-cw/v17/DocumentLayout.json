@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -40,10 +40,15 @@
               "RelativeDocumentMoniker": "171025-cw\\String.h",
               "ToolTip": "U:\\study_521\\cw\\171025-cw\\171025-cw\\String.h",
               "RelativeToolTip": "171025-cw\\String.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-10-17T17:18:33.677Z",
+              "IsPinned": true,
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -53,7 +58,7 @@
               "RelativeDocumentMoniker": "171025-cw\\String.cpp",
               "ToolTip": "U:\\study_521\\cw\\171025-cw\\171025-cw\\String.cpp",
               "RelativeToolTip": "171025-cw\\String.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-17T17:31:00.722Z",
               "EditorCaption": ""
@@ -64,16 +69,12 @@
               "Title": "Source.cpp",
               "DocumentMoniker": "U:\\study_521\\cw\\171025-cw\\171025-cw\\Source.cpp",
               "RelativeDocumentMoniker": "171025-cw\\Source.cpp",
-              "ToolTip": "U:\\study_521\\cw\\171025-cw\\171025-cw\\Source.cpp",
-              "RelativeToolTip": "171025-cw\\Source.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ToolTip": "U:\\study_521\\cw\\171025-cw\\171025-cw\\Source.cpp*",
+              "RelativeToolTip": "171025-cw\\Source.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-17T15:11:30.044Z",
+              "WhenOpened": "2025-10-22T04:42:12.009Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }
