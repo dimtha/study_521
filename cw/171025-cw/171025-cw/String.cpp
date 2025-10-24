@@ -38,6 +38,7 @@ int MyString::getCount()
 	return counter;
 }
 
+<<<<<<< HEAD
 void MyString::setSize(size_t s)
 {
 	if (s > 0) {
@@ -55,13 +56,27 @@ void MyString::setStr(char* str)
 		size = strlen(str);
 		this->str = new char[size + 1];
 		strcpy_s(this->str, size + 1, str);
+=======
+void MyString::setStr(char* str1)
+{
+	if (str != nullptr) {
+		size_t size = strlen(str);
+		str = new char[size + 1];
+		strcpy_s(this->str, size + 1, str1);
+>>>>>>> b8a87c425c5e81790fb706a08e8d052147ac5121
 	}
 }
 
 void MyString::myStrcpy(MyString& obj)
 {
+<<<<<<< HEAD
 	str = new char[obj.size + 1];
 	strcpy_s(str, obj.size + 1, obj.getStr());
+=======
+	size = strlen(obj.str);
+	this->str = new char[size + 1];
+	strcpy_s(this->str, size +1, obj.getChar());
+>>>>>>> b8a87c425c5e81790fb706a08e8d052147ac5121
 }
 
 void MyString::myDeleteChar(char c)
@@ -98,3 +113,7 @@ int MyString::myCharIndex(char c)
 
 int MyString::counter = 0;
 
+<<<<<<< HEAD
+=======
+int MyString::counter = 0;
+>>>>>>> b8a87c425c5e81790fb706a08e8d052147ac5121
