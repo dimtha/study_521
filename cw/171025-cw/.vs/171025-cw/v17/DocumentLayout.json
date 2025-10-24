@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "U:\\study_521\\cw\\171025-cw\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E7BAC0D1-AA1C-4BE2-8BA8-906986246D56}|171025-cw\\171025-cw.vcxproj|U:\\study_521\\cw\\171025-cw\\171025-cw\\main_String.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E7BAC0D1-AA1C-4BE2-8BA8-906986246D56}|171025-cw\\171025-cw.vcxproj|solutionrelative:171025-cw\\main_String.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E7BAC0D1-AA1C-4BE2-8BA8-906986246D56}|171025-cw\\171025-cw.vcxproj|U:\\study_521\\cw\\171025-cw\\171025-cw\\String.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E7BAC0D1-AA1C-4BE2-8BA8-906986246D56}|171025-cw\\171025-cw.vcxproj|solutionrelative:171025-cw\\String.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7BAC0D1-AA1C-4BE2-8BA8-906986246D56}|171025-cw\\171025-cw.vcxproj|U:\\study_521\\cw\\171025-cw\\171025-cw\\String.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E7BAC0D1-AA1C-4BE2-8BA8-906986246D56}|171025-cw\\171025-cw.vcxproj|solutionrelative:171025-cw\\String.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7BAC0D1-AA1C-4BE2-8BA8-906986246D56}|171025-cw\\171025-cw.vcxproj|U:\\study_521\\cw\\171025-cw\\171025-cw\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E7BAC0D1-AA1C-4BE2-8BA8-906986246D56}|171025-cw\\171025-cw.vcxproj|solutionrelative:171025-cw\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,16 +34,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "String.h",
               "DocumentMoniker": "U:\\study_521\\cw\\171025-cw\\171025-cw\\String.h",
               "RelativeDocumentMoniker": "171025-cw\\String.h",
               "ToolTip": "U:\\study_521\\cw\\171025-cw\\171025-cw\\String.h",
               "RelativeToolTip": "171025-cw\\String.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-10-17T17:18:33.677Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "String.cpp",
+              "DocumentMoniker": "U:\\study_521\\cw\\171025-cw\\171025-cw\\String.cpp",
+              "RelativeDocumentMoniker": "171025-cw\\String.cpp",
+              "ToolTip": "U:\\study_521\\cw\\171025-cw\\171025-cw\\String.cpp",
+              "RelativeToolTip": "171025-cw\\String.cpp",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-17T17:31:00.722Z",
               "EditorCaption": ""
             },
             {
@@ -53,25 +66,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "String.cpp",
-              "DocumentMoniker": "U:\\study_521\\cw\\171025-cw\\171025-cw\\String.cpp",
-              "RelativeDocumentMoniker": "171025-cw\\String.cpp",
-              "ToolTip": "U:\\study_521\\cw\\171025-cw\\171025-cw\\String.cpp",
-              "RelativeToolTip": "171025-cw\\String.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-17T17:31:00.722Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Source.cpp",
-              "DocumentMoniker": "U:\\study_521\\cw\\171025-cw\\171025-cw\\Source.cpp",
-              "RelativeDocumentMoniker": "171025-cw\\Source.cpp",
-              "ToolTip": "U:\\study_521\\cw\\171025-cw\\171025-cw\\Source.cpp*",
-              "RelativeToolTip": "171025-cw\\Source.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Title": "main_String.cpp",
+              "DocumentMoniker": "U:\\study_521\\cw\\171025-cw\\171025-cw\\main_String.cpp",
+              "RelativeDocumentMoniker": "171025-cw\\main_String.cpp",
+              "ToolTip": "U:\\study_521\\cw\\171025-cw\\171025-cw\\main_String.cpp",
+              "RelativeToolTip": "171025-cw\\main_String.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-22T04:42:12.009Z",
               "EditorCaption": ""

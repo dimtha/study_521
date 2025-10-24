@@ -2,69 +2,99 @@
 #include "String.h"
 using namespace std;
 
-static char* copyStr(const char* newStr) {
-	size_t size = strlen(newStr);
-	char* str = new char[size + 1];
-	strcpy_s(str, size + 1, newStr);
-	return str;
-}
-
-MyString::MyString()
-{
-	str = nullptr;
-	size = 0;
-}
-
 MyString::MyString(size_t s)
 {
 	size = s;
+	if (size == 0) {
+		str = nullptr;
+	}
+	else {
+		str = new char[size + 1];
+		str[size] = '\0';
+	}
 }
 
-MyString::MyString(const char* str)
+MyString::MyString(char* str)
 {
-	if (this->str != nullptr) {
-		size_t size = strlen(str);
-		char* str = new char[size + 1];
+	if (str != nullptr) {
+		size = std::strlen(str);
+		this->str = new char[size + 1];
 		strcpy_s(this->str, size + 1, str);
 	}
 }
 
-size_t MyString::getSize()
+size_t MyString::getSize() const
 {
 	return size;
 }
 
-char* MyString::getChar() 
+char* MyString::getStr() const
 {
-	return this->str;
+	return str;
 }
 
-//int MyString::getCount()
-//{
-//	return counter;
-//}
-
-void MyString::setSize(size_t size)
+int MyString::getCount()
 {
-	if(strlen(str) != 0) size = strlen(str);
+	return counter;
 }
 
-void* MyString::setChar(char* str1)
+void MyString::setSize(size_t s)
 {
-	if (str != nullptr) {
-		size_t size = strlen(str);
-		char* str = new char[size + 1];
-		strcpy_s(this->str, size + 1, str1);
+	if (s > 0) {
+		this->size = s;
 	}
-	return this->str;
+}
+
+void MyString::setStr(char* str)
+{
+	if (this->str != nullptr) {
+		delete[] this->str;
+		size = 0;
+	}
+	if (str != nullptr && strlen(str) > 0) {
+		size = strlen(str);
+		this->str = new char[size + 1];
+		strcpy_s(this->str, size + 1, str);
+	}
 }
 
 void MyString::myStrcpy(MyString& obj)
 {
-	size_t size = strlen(this->str);
-	char* buf = new char[size + 1];
-	strcpy_s(obj.getChar(), size + 1, this->str);
+	str = new char[obj.size + 1];
+	strcpy_s(str, obj.size + 1, obj.getStr());
 }
 
+void MyString::myDeleteChar(char c)
+{
+	bool found = false;
+	for (int i = 0; i < strlen(this->str); i++) {
+		if (this->str[i] == c) {
+			for (int j = i; j < strlen(this->str); j++) {
+				str[j] = str[j + 1];
+			}
+			found = true;
+			break;
+		}
+	}
+	if (!found) {
+		cout << "any" << " (" << c << ") " << "in row" << endl;
+	}
+}
+
+int MyString::myCharIndex(char c)
+{
+	for (int i = 0; i < strlen(this->str); i++) {
+		if (str[i] == c) {
+			return i ;
+		}
+	}
+	return -1;
+}
+
+//MyString::~MyString()
+//{
+//	if (str != nullptr) delete[] str; 
+//}
 
 int MyString::counter = 0;
+

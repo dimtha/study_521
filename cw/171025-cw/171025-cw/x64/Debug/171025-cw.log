@@ -1,3 +1,2 @@
-﻿  Source.cpp
-Source.obj : error LNK2019: unresolved external symbol "class MyString __cdecl my_str(void)" (?my_str@@YA?AVMyString@@XZ) referenced in function main
-U:\study_521\cw\171025-cw\x64\Debug\171025-cw.exe : fatal error LNK1120: 1 unresolved externals
+﻿  main_String.cpp
+  171025-cw.vcxproj -> U:\study_521\cw\171025-cw\x64\Debug\171025-cw.exe

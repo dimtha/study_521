@@ -3,21 +3,25 @@ class MyString
 {
 
 private:
-	size_t size;
-	char* str;
+	size_t size = 0;
+	char* str = nullptr;
 	static int counter;
 public:
-	MyString();
+	MyString() = default;
 	MyString(size_t s);
-	MyString(const char* str);
-	size_t getSize();
-	char* getChar();
-	//static int getCount();
+	MyString(char* str);
+	size_t getSize() const;
+	char* getStr() const;
+	static int getCount();
 	void setSize(size_t size);
-	void* setChar(char* str);
+	void setStr(char* str);
 	void myStrcpy(MyString& obj);
-	//void myDeleteChar(char c);
-	//int myCharIndex(char c);
+	void myDeleteChar(char c);
+	int myCharIndex(char c);
+	//~MyString();
+
+
+
 };
 
 
