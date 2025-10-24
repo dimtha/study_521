@@ -20,8 +20,5 @@ int main() {
 	cout << my_str1.getStr() << endl;
 
 
-
-	//my_str.~MyString();
-
 	return 0;
 }
