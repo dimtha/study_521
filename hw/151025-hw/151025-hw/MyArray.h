@@ -14,5 +14,12 @@ public:
 	int getSum();
 	int getIndex(int indx);
 	void getSort(int* arr1, int size1);
+	MyArray(const MyArray& obj) {
+		this->size = obj.size;
+		this->array = new int[size];
+		for (int i = 0; i < size; i++) {
+			this->array[i] = obj.array[i];
+		}
+	}
 	~MyArray();
 };
